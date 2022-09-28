@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1te7k7MR8JcJJ+sMKiv1yrJFMrL3s+DGTen595DVHouUUrqGGLj+Ea24UzEwHeZgOyLyKoczwADZ4xsoeVHKw==",
+  "dgSpecHash": "hMnqexTAQCyBaMgkbOyJJyRY6/zsezE4ot/u6CVPDSF570vYvsiCfZvKonXQifMWSm81ZjQlw6Nciw9yKra54w==",
   "success": true,
-  "projectFilePath": "D:\\PracticeProject\\JenkinesDemo\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\PracticeProject\\JenkinesDemo_Git\\JenkinesDemo\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\helLO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\helLO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

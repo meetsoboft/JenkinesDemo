@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PracticeProject\\JenkinesDemo\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\PracticeProject\\JenkinesDemo_Git\\JenkinesDemo\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\PracticeProject\\JenkinesDemo\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\PracticeProject\\JenkinesDemo_Git\\JenkinesDemo\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\helLO\\.nuget\\packages\\",
-      "outputPath": "D:\\PracticeProject\\JenkinesDemo\\WebApplication1\\obj\\",
+      "outputPath": "D:\\PracticeProject\\JenkinesDemo_Git\\JenkinesDemo\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
